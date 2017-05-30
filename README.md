@@ -1,2 +1,3 @@
-# LG_TV_MQTT
-LG TV RS232 to MQTT W5500
+# LG TV MQTT
+Управление телевизором LG по RS232 через Ethernet MQTT шлюз.
+Ethernet построен на микросхеме W5500.
